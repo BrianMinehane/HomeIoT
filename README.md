@@ -6,7 +6,7 @@ The Home Connect function includes: - iService Remote, Remote Monitoring and Con
 This is what I want to connect up to remotely - ideally using MSFT Azure via my home Internet connection.
 
 Smoking something? Nope- just cooking food!
-My coding days are long past - think Frotran, Pascal, SQLWindows (Gupta) and Ingres DB
+My coding days are long past - think Fortran, Pascal, SQLWindows (Gupta) and Ingres DB
 Hence, I need help
 
 More to follow
